@@ -1,0 +1,16 @@
+{
+    "name": "CyberKing #3",
+    "description": "Welcome to our store. Here you can buy a lot of the hottest NFTs",
+    "image_url": "https://github.com/cuong995qb/CyberKingNFT/blob/master/cards/3.jpg",
+    "attributes": [
+        {
+          "trait_type": "background", 
+          "value": "blue"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 10122021
+        }        
+      ]
+}

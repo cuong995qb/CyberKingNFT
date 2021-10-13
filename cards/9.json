@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+{
+    "name": "CyberKing #9",
+    "description": "Welcome to our store. Here you can buy a lot of the hottest NFTs",
+    "image_url": "https://github.com/cuong995qb/CyberKingNFT/blob/master/cards/9.jpg",
+    "attributes": [
+        {
+          "trait_type": "background", 
+          "value": "pink"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 10122021
+        }        
+      ]
+=======
+{
+    "name": "CyberKing #9",
+    "description": "Welcome to our store. Here you can buy a lot of the hottest NFTs",
+    "image_url": "https://ipfs.io/ipfs/QmXp4ZF9B93UfUfYzMtiYnqHUZc8eUqCCQWTyHdLCDU68C?filename=9.jpg",
+    "attributes": [
+        {
+          "trait_type": "background", 
+          "value": "pink"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 10122021
+        }        
+      ]
+>>>>>>> 9c4d0827dbb2f8c0cc165d92c0f4f9578c1e2dce
+}
